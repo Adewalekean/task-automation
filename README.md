@@ -233,7 +233,7 @@ The screenshots folder contains evidence of the scripts running, including syste
 Clone the repository and enter the project directory.
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Adewalekean/task-automation>
 cd task-automation
 ```
 
