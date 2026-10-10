@@ -1,0 +1,9 @@
+# Generated workspace files
+workspace/
+
+# macOS system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
